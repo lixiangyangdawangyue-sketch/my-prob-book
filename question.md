@@ -123,7 +123,7 @@ Calculate $\overline{A}_{x}$.
 - Mortality follows the LTAM Life Table
 - $i=5\%$
 - Premiums satisfy the equivalence principle with the following payment schedule:
-  $$ P = \begin{cases} x & t=0,1,2,3,4 \\ 2x & t=5,6,7,... \end{cases} $$
+  $ P = \begin{cases} x & t=0,1,2,3,4 \\ 2x & t=5,6,7,... \end{cases} $
 
 Calculate $x$.
 
